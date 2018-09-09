@@ -45,4 +45,6 @@ $ go run pardon.go hello world hunter2
 $ go build pardon.go
 ```
 
+## Example
 
+[![asciicast](https://asciinema.org/a/14.png)](https://asciinema.org/a/ujFi77qkMOV4kZ6NXojs3CR2L)
