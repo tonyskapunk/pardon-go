@@ -47,4 +47,4 @@ $ go build pardon.go
 
 ## Example
 
-[![asciicast](https://asciinema.org/a/ujFi77qkMOV4kZ6NXojs3CR2L.png)](https://asciinema.org/a/ujFi77qkMOV4kZ6NXojs3CR2L)
+[![asciicast](https://asciinema.org/a/ujFi77qkMOV4kZ6NXojs3CR2L.gif)](https://asciinema.org/a/ujFi77qkMOV4kZ6NXojs3CR2L)
